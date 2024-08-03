@@ -11,3 +11,5 @@ Sep : ML, & AI, Gen AI
 Oct : NLP, and others.
 
 Nov & December : Various Projects.
+
+__ Start Date : Aug 04, 2024
